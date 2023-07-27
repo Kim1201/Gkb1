@@ -1,0 +1,4 @@
+#Thu Jul 27 22:57:55 ICT 2023
+base.0=C\:\\Users\\kimdieu\\OneDrive\\Desktop\\git_clone\\Explore-planets-app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
